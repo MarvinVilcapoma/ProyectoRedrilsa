@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ProyectoRedrilsa</string>
+    <string-array name="list_maquinas">
+        <item>LK</item>
+        <item>LF70</item>
+        <item>LF90</item>
+        <item>LF230</item>
+    </string-array>
+
+    <string-array name="list_interiores">
+        <item>RD800M</item>
+        <item>RD800</item>
+        <item>RD500</item>
+        <item>LM75</item>
+        <item>LM110</item>
+        <item>LM90</item>
+        <item>DIAMEC</item>
+
+    </string-array>
+
+
+</resources>
