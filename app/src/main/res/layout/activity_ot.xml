@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/diamante"
-    android:padding="40dp"
+    android:padding="45dp"
     android:orientation="vertical"
     tools:context=".MainActivity">
 
@@ -14,20 +14,11 @@
         android:src="@drawable/remicsa"
         android:layout_width="match_parent"
         android:onClick="IrPagina"
-        android:layout_height="60dp">
+        android:layout_height="100dp">
 
     </ImageView>
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textSize="20dp"
-        android:background="@drawable/shape3"
-        android:textStyle="bold"
-        android:layout_gravity="center"
-        android:textColor="#000000"
-        android:text=" ORDENES DE TRABAJO (OT) ">
-    </TextView>
+
 
     <ScrollView
         android:layout_width="match_parent"

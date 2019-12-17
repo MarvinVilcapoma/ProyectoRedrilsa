@@ -1,21 +1,30 @@
 <resources>
     <string name="app_name">ProyectoRedrilsa</string>
     <string-array name="list_maquinas">
-        <item>LK</item>
-        <item>LF70</item>
-        <item>LF90</item>
-        <item>LF230</item>
+        <item>LF 70</item>
+        <item>LF 90</item>
+        <item>LF 230</item>
+        <item>CS 14</item>
+        <item>CS 140-1</item>
+        <item>MOROOKA MST-800</item>
+        <item>DH1-1</item>
+        <item>MC 12</item>
+
     </string-array>
 
     <string-array name="list_interiores">
-        <item>RD800M</item>
-        <item>RD800</item>
-        <item>RD500</item>
-        <item>LM75</item>
-        <item>LM110</item>
-        <item>LM90</item>
+        <item>LM 45</item>
+        <item>LM-55</item>
+        <item>LM 75</item>
+        <item>LM 90</item>
+        <item>LM 110</item>
+        <item>RD 500</item>
+        <item>RD 800-M</item>
+        <item>RD 800</item>
+        <item>RD 1000</item>
+        <item>JKS-300-1</item>
+        <item>JKS</item>
         <item>DIAMEC</item>
-
     </string-array>
 
 

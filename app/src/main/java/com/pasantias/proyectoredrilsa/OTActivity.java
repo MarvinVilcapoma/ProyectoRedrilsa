@@ -49,7 +49,7 @@ public class OTActivity extends AppCompatActivity {
     }
 
     public void IrPagina(View view) {
-        Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.redrilsa.com.pe/"));
+        Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://intranet.redrilsa.com.pe/inicio.asp"));
         startActivity(browserIntent);
     }
 
